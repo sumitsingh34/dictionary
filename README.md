@@ -1,1 +1,1 @@
-This is dictionary file. Technologies used: Python 3, JSON and for Voice 
+This is dictionary file. Technologies/Libraries used: Python 3, JSON and PYTTSX3 for Voice 
